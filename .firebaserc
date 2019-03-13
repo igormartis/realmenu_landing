@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "realmenu-454e9": {
+      "hosting": {
+        "realmenu": [
+          "realmenu"
+        ]
+      }
+    }
+  }
+}

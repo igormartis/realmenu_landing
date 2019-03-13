@@ -1,0 +1,11 @@
+{
+  "hosting": [{
+    "target" : "realmenu",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }]
+}

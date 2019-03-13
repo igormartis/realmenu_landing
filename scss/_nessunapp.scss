@@ -1,0 +1,21 @@
+// Styling for the features section
+section.nessuna-app {
+    .section-heading {
+        margin-bottom: 100px;
+
+        h2 {
+            margin-top: 0;
+        }
+
+        p {
+            margin-bottom: 0;
+        }
+    }
+
+}
+
+.bg-primary-orange {
+    background: #e2682f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#e2682f), to(#b55325));
+    background: linear-gradient(#bba69c,#ff905c);
+}
