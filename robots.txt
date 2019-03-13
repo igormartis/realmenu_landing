@@ -1,0 +1,9 @@
+# Regola 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Regola 2
+User-agent: *
+Allow: /
+
+Sitemap: https://www.realmenu.it/sitemap_location.xml

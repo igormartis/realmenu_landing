@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- <url>
+        <loc>http://realmenu.it/english/</loc>
+        <xhtml:link rel="alternate" hreflang="de" href="http://example.com/deutsch/" />
+        <xhtml:link rel="alternate" hreflang="en" href="http://example.com/english/" />
+    </url>
+    <url>
+        <loc>http://example.com/deutsch/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://example.com/english/" />
+        <xhtml:link rel="alternate" hreflang="de" href="http://www.example.com/deutsch/" />
+    </url> -->
+    <url>
+        <loc>https://realmenu.it/</loc>
+        <xhtml:link rel="alternate" hreflang="it" href="https://realmenu.it/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://realmenu.it/en/" />
+    </url>
+    <url>
+        <loc>https://realmenu.it/en/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://realmenu.it/en/" />
+        <xhtml:link rel="alternate" hreflang="it" href="https://realmenu.it/" />
+    </url>
+</urlset>
